@@ -41,7 +41,6 @@
 		8AA247F327AC68F9003E6CD4 = {
 			isa = PBXGroup;
 			children = (
-				8AA2481227AC6F2F003E6CD4 /* ShareSheet.swift */,
 				8AA247FE27AC68F9003E6CD4 /* RecordingScreen */,
 				8AA247FD27AC68F9003E6CD4 /* Products */,
 			);
@@ -64,6 +63,7 @@
 				8AA2480527AC68FA003E6CD4 /* Preview Content */,
 				8AA2480E27AC6934003E6CD4 /* Extensions.swift */,
 				8AA2481027AC6A41003E6CD4 /* Home.swift */,
+				8AA2481227AC6F2F003E6CD4 /* ShareSheet.swift */,
 			);
 			path = RecordingScreen;
 			sourceTree = "<group>";
